@@ -21,7 +21,7 @@ Managing car rentals involves challenges such as manual paperwork, multiple offi
 
 ## ER Diagram
 
-![ER Diagram]([link-to-your-er-diagram-image.png](https://github.com/hammadak03/RentMe-DBMS-Project/blob/master/ER-Diagram.png?raw=true))
+![ER Diagram](https://github.com/hammadak03/RentMe-DBMS-Project/blob/master/ER-Diagram.png?raw=true)
 
 ## Implementation Details
 
